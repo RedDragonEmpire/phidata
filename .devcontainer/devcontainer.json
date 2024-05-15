@@ -28,6 +28,9 @@
 "ghcr.io/devcontainers-contrib/features/corepack:1": {}
 "ghcr.io/devcontainers-contrib/features/express-generator:2": {}
 "ghcr.io/devcontainers-contrib/features/ffmpeg-homebrew:1": {}
+"ghcr.io/frntn/devcontainers-features/postman:1": {}
+"ghcr.io/devcontainers/features/node:1": {}
+"ghcr.io/devcontainers-contrib/features/linode-cli:1": {}
 
   }
 }
