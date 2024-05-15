@@ -31,6 +31,10 @@
 "ghcr.io/frntn/devcontainers-features/postman:1": {}
 "ghcr.io/devcontainers/features/node:1": {}
 "ghcr.io/devcontainers-contrib/features/linode-cli:1": {}
+"ghcr.io/devcontainers-contrib/features/gh-release:1": {}
+"ghcr.io/marcozac/devcontainer-features/buf:1": {}
+"ghcr.io/devcontainers-contrib/features/powershell:1": {}
+"ghcr.io/jungaretti/features/vim:1": {}
 
   }
 }
