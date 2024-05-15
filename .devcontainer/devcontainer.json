@@ -13,7 +13,12 @@
   "ghcr.io/georgofenbeck/features/ammonite-linuxbinary:1": {}
   "ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}
 "ghcr.io/devcontainers-contrib/features/amplify-cli:2": {}
-
+"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
+"ghcr.io/customink/codespaces-features/sam-cli:1": {}
+"ghcr.io/wxw-matt/devcontainer-features/apt:0": {}
+"ghcr.io/devcontainers-contrib/features/ballerina-sdkman:2": {}
+"ghcr.io/devcontainers-contrib/features/ballerina-sdkman:2": {}
+"ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {}
   
   }
 }
