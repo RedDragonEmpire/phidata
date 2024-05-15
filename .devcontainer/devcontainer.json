@@ -35,6 +35,9 @@
 "ghcr.io/marcozac/devcontainer-features/buf:1": {}
 "ghcr.io/devcontainers-contrib/features/powershell:1": {}
 "ghcr.io/jungaretti/features/vim:1": {}
-
-  }
+"ghcr.io/akhildevelops/devcontainer-features/android-cli:0": {}
+"ghcr.io/devcontainers-contrib/features/cxf-sdkman:2": {}
+"ghcr.io/devcontainers-contrib/features/quasar-cli:2": {}
+"ghcr.io/devcontainers-contrib/features/groovy-sdkman:2": {}
+  },
 }
