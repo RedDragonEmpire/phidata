@@ -8,6 +8,12 @@
     ghcr.io/rio/features/skaffold:2
     "ghcr.io/devcontainers-contrib/features/sigstore-python:1": {}
     "ghcr.io/georgofenbeck/features/lazygit-linuxbinary:1": {}
-    
+    "ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
+"ghcr.io/customink/codespaces-features/common-amzn:1": {}
+  "ghcr.io/georgofenbeck/features/ammonite-linuxbinary:1": {}
+  "ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}
+"ghcr.io/devcontainers-contrib/features/amplify-cli:2": {}
+
+  
   }
 }
