@@ -1,5 +1,13 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+    ghcr.io/devcontainers/features/git:1
+    "ghcr.io/rio/features/skaffold:2": {}
+    ghcr.io/rio/features/skaffold:2
+    ghcr.io/rio/features/skaffold:2
+    "ghcr.io/devcontainers-contrib/features/sigstore-python:1": {}
+    "ghcr.io/georgofenbeck/features/lazygit-linuxbinary:1": {}
+    
   }
 }
