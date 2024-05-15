@@ -27,6 +27,7 @@
 "ghcr.io/devcontainers-contrib/features/autoenv:1": {}
 "ghcr.io/devcontainers-contrib/features/corepack:1": {}
 "ghcr.io/devcontainers-contrib/features/express-generator:2": {}
+"ghcr.io/devcontainers-contrib/features/ffmpeg-homebrew:1": {}
 
   }
 }
